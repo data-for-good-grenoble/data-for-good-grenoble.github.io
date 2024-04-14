@@ -1,0 +1,20 @@
+site_name: Data for Good Grenoble
+site_author: Pierre-Loic Bayart
+site_url: https://data-for-good-grenoble.github.io/website/
+nav:
+  - 🌍 Bienvenue: index.md
+  - 📅 Évènements: events/index.md
+  - 🚀 Nous rejoindre: about.md
+
+site_dir: dist
+docs_dir: content
+
+theme:
+  name: material
+  palette:
+    primary: custom
+  logo: static/icon.png
+  favicon: static/icon.png
+
+extra_css:
+  - stylesheets/extra.css
