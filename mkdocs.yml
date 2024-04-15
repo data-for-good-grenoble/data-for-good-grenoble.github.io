@@ -1,6 +1,6 @@
 site_name: Data for Good Grenoble
 site_author: Pierre-Loic Bayart
-site_url: https://data-for-good-grenoble.github.io/website/
+site_url: https://data-for-good-grenoble.github.io
 nav:
   - 🌍 Bienvenue: index.md
   - 📅 Évènements: events/index.md
