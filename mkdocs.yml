@@ -19,3 +19,14 @@ theme:
 
 extra_css:
   - stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/data-for-good-grenoble/about/
+
+    - icon: fontawesome/brands/slack
+      link: https://dataforgood.fr/join
+
+    - icon: fontawesome/brands/meetup
+      link: https://www.meetup.com/fr-FR/data-for-good-fr/
