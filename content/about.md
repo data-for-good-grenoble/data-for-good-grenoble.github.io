@@ -1,7 +1,7 @@
 # 🚀 Nous rejoindre
 
 
-[Rejoindre "Data for Good Grenoble" sur Molilizon](https://mobilizon.fr/@data_for_good_grenoble)
+[Rejoindre "Data for Good Grenoble" sur Mobilizon](https://mobilizon.fr/@data_for_good_grenoble)
 
 ___
 
