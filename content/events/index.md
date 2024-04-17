@@ -36,13 +36,13 @@ Les différents projets de la saison viendront présenter le résultat de leurs 
 
 🔥 Projet 11 : Localiser les départs de feux - Pyronear
 
-(plus de détails ici : https://dataforgood.fr/saison12)
+(plus de détails [ici](https://dataforgood.fr/saison12))
 
 📌Ça se passe à la Turbine, the place du numérique engagé à Grenoble !
 
 On vous propose de venir avec un petit bout d'apéro à partager 🍻
 
-Il est possible aussi de s'inscrire ici pour le suivre à distance : https://www.eventbrite.fr/e/demo-day-saison-12-data-for-good-tickets-881299499527?aff=oddtdtcreator
+Il est possible aussi de [s'inscrire ici](https://www.eventbrite.fr/e/demo-day-saison-12-data-for-good-tickets-881299499527?aff=oddtdtcreator) pour le suivre à distance
 
 ___
 
