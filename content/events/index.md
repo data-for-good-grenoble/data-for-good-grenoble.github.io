@@ -1,10 +1,58 @@
 # 📅 Évènements
 
+## Prochains évènements
+
+**Diffusion du demo day de la saison 12 à Grenoble**
+
+📅 **Date :** jeudi 25 avril de 19h à 21h
+
+📌 **Lieu :** La Turbine.coop
+
+✔️ [Inscription](https://mobilizon.fr/events/5dff7990-9ae8-4139-906e-b0b14d1924f4)
+
+On vous propose de venir visionner avec nous le demo day de la saison 12 des projets menés par Data for Good !
+
+Les différents projets de la saison viendront présenter le résultat de leurs travaux durant 3 mois de travail :
+
+⛵ Projet 1 : TrawlWatch - Bloom
+
+🐟 Projet 2 : Pinkbomb - Seastemik
+
+🩴Projet 3 : Zéro Déchet Sauvage - MerTerre
+
+💸Projet 4 : Country by country reporting - Tax Observatory
+
+👩‍⚕️Projet 5 : LinkR - InterHop
+
+⛺Projet 6 : Cartographie des campements parisiens - Utopia 56
+
+👗Projet 7 : Comment questionner la seconde main - France : Fashion Revolution & CMCM - Le média de la seconde main
+
+🎥 Projet 8 : L'observatoire des imaginaires - The Shifters
+
+📲 Projet 9 : GenAI Impact - Data for Good
+
+⚡Projet 10 : Données de la transition énergétique - 350 .org
+
+🔥 Projet 11 : Localiser les départs de feux - Pyronear
+
+(plus de détails ici : https://dataforgood.fr/saison12)
+
+📌Ça se passe à la Turbine, the place du numérique engagé à Grenoble !
+
+On vous propose de venir avec un petit bout d'apéro à partager 🍻
+
+Il est possible aussi de s'inscrire ici pour le suivre à distance : https://www.eventbrite.fr/e/demo-day-saison-12-data-for-good-tickets-881299499527?aff=oddtdtcreator
+
 ___
 
-## Prochain évènement
-
 **Atelier "La bataille de l'IA"**
+
+📅 **Date :** mardi 30 avril de 18h45 à 21h
+
+📌 **Lieu :** La Turbine.coop
+
+✔️ [Inscription](https://www.meetup.com/fr-FR/data-for-good-fr/events/300024640/)
 
 ChatGPT va-t-il tuer notre imagination ? Votre métier va-t-il être remplacé par l’IA ? L’IA est-elle la solution au dérèglement climatique ?
 
@@ -19,13 +67,6 @@ L’atelier se déroule en 3 phases :
 - Phase 1 : Découvrir les faits marquants de l’IA.
 - Phase 2 : Débattre sur les enjeux de l’IA Générative.
 - Phase 3 : Participer à des scénarios prospectifs sur l’IA Générative.
-
-
-📅 **Date :** mardi 30 avril de 18h45 à 21h
-
-📌 **Lieu :** La Turbine.coop
-
-✔️ [Inscription](https://www.meetup.com/fr-FR/data-for-good-fr/events/300024640/)
 
 ___
 
