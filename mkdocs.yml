@@ -14,8 +14,8 @@ theme:
   palette:
     primary: custom
   logo: static/icon.png
+  favicon: static/favicon.png
   language: fr
-  favicon: static/icon.png
 
 extra_css:
   - stylesheets/extra.css
