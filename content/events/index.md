@@ -12,6 +12,7 @@ ___
 |23/10/2024|Rassemblons la communauté Tech for Good 🍻|[Mobilizon](https://mobilizon.fr/events/9c984b05-f578-46fa-a61b-241a68366a8b)|
 |20/08/2024|Rando d'intégration 🚶||
 |18/07/2024|Réunion recrutement et photo PPM||
+|27/06/2024|Atelier d'exploration des données d'Open Food Facts (D4G x Python)|[Meetup](https://www.meetup.com/groupe-dutilisateurs-python-grenoble/events/301484139/), [Github](https://github.com/data-for-good-grenoble/atelier-OFF)|
 |30/04/2024|La Bataille de l'IA 🃏|[Meetup](https://www.meetup.com/fr-FR/data-for-good-fr/events/300024640/)|
 |25/04/2024|Diffusion du demo day de la saison 12 à Grenoble|[Mobilizon](https://mobilizon.fr/events/5dff7990-9ae8-4139-906e-b0b14d1924f4)|
 |28/03/2024|Mapping for Good (D4G x Python)|[Meetup](https://www.meetup.com/fr-FR/groupe-dutilisateurs-python-grenoble/events/299598142/)|
