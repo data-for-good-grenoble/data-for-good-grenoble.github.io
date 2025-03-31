@@ -1,6 +1,9 @@
 # 📅 Évènements
 
 ## Prochains évènements
+|Date|Titre|Liens|
+|---|---|---|
+|17/04/2025|La Bataille de l'IA 🃏|[Mobilizon](https://mobilizon.fr/events/15d3b004-97a6-4629-a11b-4edd6c1e254c)|
 
 ___
 
