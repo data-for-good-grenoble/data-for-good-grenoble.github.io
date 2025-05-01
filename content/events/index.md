@@ -3,7 +3,7 @@
 ## Prochains évènements
 |Date|Titre|Liens|
 |---|---|---|
-|17/04/2025|La Bataille de l'IA 🃏|[Mobilizon](https://mobilizon.fr/events/15d3b004-97a6-4629-a11b-4edd6c1e254c)|
+|15/05/2025|Atelier Analyse de données géographiques 🗺️|[Mobilizon](https://mobilizon.fr/events/3f37d07d-149b-4f3e-b199-697899539063)|
 
 ___
 
@@ -11,6 +11,8 @@ ___
 
 |Date|Titre|Liens|
 |---|---|---|
+|24/04/2025|Diffusion de la demo day de la saison 13 à Grenoble|
+|17/04/2025|La Bataille de l'IA 🃏|[Mobilizon](https://mobilizon.fr/events/15d3b004-97a6-4629-a11b-4edd6c1e254c)|
 |27/01/2025|Rediffusion du lancement de la saison 13|[Mobilizon](https://mobilizon.fr/events/e2812728-48b1-4d5b-8c5d-40a16d9ccdde)|
 |20/11/2024|Horizons numérique : comment s'orienter vers la sobriété ?|[Mobilizon](https://mobilizon.fr/events/7ad7b43b-a72e-485e-82bc-fbb0d3323d29), [Compte rendu](https://www.linkedin.com/posts/data-for-good-grenoble_le-20-novembre-on-organisait-une-soir%C3%A9e-activity-7273024600001703937-ugXe)|
 |23/10/2024|Rassemblons la communauté Tech for Good 🍻|[Mobilizon](https://mobilizon.fr/events/9c984b05-f578-46fa-a61b-241a68366a8b)|
