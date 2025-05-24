@@ -3,7 +3,8 @@
 ## Prochains évènements
 |Date|Titre|Liens|
 |---|---|---|
-|15/05/2025|Atelier Analyse de données géographiques 🗺️|[Mobilizon](https://mobilizon.fr/events/3f37d07d-149b-4f3e-b199-697899539063)|
+|28/05/2025|Atelier de définition de la Raison d'Être du groupe|
+|18/06/2025|Lancement du projet Mobitilité douce|[Mobilizon](https://mobilizon.fr/events/44ecc981-1812-4ba1-826f-e6f95f29a381)|
 
 ___
 
@@ -11,6 +12,7 @@ ___
 
 |Date|Titre|Liens|
 |---|---|---|
+|15/05/2025|Atelier Analyse de données géographiques 🗺️|[Mobilizon](https://mobilizon.fr/events/3f37d07d-149b-4f3e-b199-697899539063)|
 |24/04/2025|Diffusion de la demo day de la saison 13 à Grenoble|
 |17/04/2025|La Bataille de l'IA 🃏|[Mobilizon](https://mobilizon.fr/events/15d3b004-97a6-4629-a11b-4edd6c1e254c)|
 |27/01/2025|Rediffusion du lancement de la saison 13|[Mobilizon](https://mobilizon.fr/events/e2812728-48b1-4d5b-8c5d-40a16d9ccdde)|
